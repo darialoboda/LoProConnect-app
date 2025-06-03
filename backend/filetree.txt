@@ -1,0 +1,23 @@
+api
+ ┣ api
+ ┃ ┗ server.js
+ ┣ controllers
+ ┃ ┣ authController.js
+ ┃ ┣ courseController.js
+ ┃ ┣ testController.js
+ ┃ ┗ userController.js
+ ┣ models
+ ┃ ┣ Answer.js
+ ┃ ┣ Course.js
+ ┃ ┣ Test.js
+ ┃ ┗ User.js
+ ┣ routes
+ ┃ ┣ courseRoutes.js
+ ┃ ┣ testRoutes.js
+ ┃ ┗ userRoutes.js
+ ┣ .gitattributes
+ ┣ .gitignore
+ ┣ filetree.txt
+ ┣ package-lock.json
+ ┣ package.json
+ ┗ vercel.json
