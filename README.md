@@ -19,7 +19,7 @@ Cieľom aplikácie je sprístupniť technické poznatky o moderných nízkoenerg
 
 ## 🔧 Použité technológie
 
-- **Frontend**: React, Tailwind CSS
+- **Frontend**: React
 - **Backend**: Node.js, Express
 - **Databáza**: MongoDB
 - **Autentifikácia**: JSON Web Tokens (JWT)
